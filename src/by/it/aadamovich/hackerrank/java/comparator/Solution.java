@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task7;
+package by.it.aadamovich.hackerrank.java.comparator;
 
 import java.util.Arrays;
 import java.util.Comparator;

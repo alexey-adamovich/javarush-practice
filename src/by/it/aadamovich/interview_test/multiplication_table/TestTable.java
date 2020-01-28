@@ -1,17 +1,14 @@
-package by.it.aadamovich.Task8;
+package by.it.aadamovich.interview_test.multiplication_table;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.stream.Collector;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class TestTable {
 
     public static void main(String[] args) {
-//        showMultipleTable(4);
+        showMultipleTable(4);
         showMultipleTableStream(3);
 
     }

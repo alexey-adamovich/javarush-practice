@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task3;
+package by.it.aadamovich.javarush.Task3;
 
 public class Solution {
     public static volatile int numSeconds = 4;

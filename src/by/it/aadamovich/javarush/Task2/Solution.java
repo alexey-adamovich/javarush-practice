@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task2;
+package by.it.aadamovich.javarush.Task2;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

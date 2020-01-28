@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task1;
+package by.it.aadamovich.javarush.Task1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task6;
+package by.it.aadamovich.hackerrank.java.stack;
 
 import java.util.*;
 

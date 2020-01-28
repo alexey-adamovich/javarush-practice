@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task5;
+package by.it.aadamovich.hackerrank.java.arraylist;
 
 import java.util.ArrayList;
 import java.util.List;

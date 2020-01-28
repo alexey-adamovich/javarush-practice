@@ -1,4 +1,4 @@
-package by.it.aadamovich.Task4;
+package by.it.aadamovich.hackerrank.java.bigdecimal;
 
 
 import java.math.BigDecimal;
